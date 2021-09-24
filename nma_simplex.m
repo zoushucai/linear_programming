@@ -195,4 +195,3 @@ solution_vector
 
 end
 
-0
